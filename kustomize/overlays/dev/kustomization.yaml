@@ -19,4 +19,5 @@ patches:
 #     skala-registry.skala-ai.com/class-5/sk140-webserver=skala-registry.skala-ai.com/class-5/sk140-webserver:<NEW_TAG>
 images:
 - name: skala-registry.skala-ai.com/class-5/sk140-webserver
-  newTag: "1.0.docker"
+  newName: skala-registry.skala-ai.com/class-5/sk140-webserver
+  newTag: 1.0-dk5-deda9b9
